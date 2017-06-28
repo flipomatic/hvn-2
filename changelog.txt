@@ -1,0 +1,58 @@
+0.2.7
+Pages 701-759 added
+Complete through act 2
+Some changes have been made. I lost most of the files last year when my computer crashed. I managed to recover the assets and programing, but a couple things might be different.
+Do not carry over your old savefile. Utilize the page 700 button on the act select screen to resume from the last page of the previous update
+Completion percent in this update relative to the complete homestuck comic, which finished with 8,123 pages.
+9.34 percent complete
+
+0.2.6
+Pages 601-700 added
+Upgrade to game efficiency
+Saves are now stored as seperate files, to recover up to date save data go to act select and click to go to page 601
+8.89% complete
+
+0.2.5
+Pages 501-600 added
+7.54% complete
+
+0.2.4
+Pages 401-500 added
+6.29% complete
+
+0.2.3
+Pages 301-400 added
+5.03% complete
+
+0.2.2
+Pages 261-300 added
+Changed to Courier font, adjusted size accordingly
+3.77 % complete
+
+Version 0.2.1
+Added Act 2 select button
+Pages 201-260 added
+3.27 % complete
+
+Version 0.1.7
+Changed color of text box to make pesterlogs easier to read
+minor bug fixes
+Pages 151-200 added
+2.5% complete
+
+
+Version 0.1.5
+Added completion percents to changelog, which are based on page number as of 8/19/15
+Pages 71-150 added
+1.89% complete
+
+Version 0.1.2
+Changed all buttons that said ">continue" to "==>"
+Darkened opacity of text box
+"Select Act" page added
+Pages 21-70 added
+0.88% complete
+
+Version 0.1.0
+Initial launch, inlcudes pages 1-20
+0.25% complete
