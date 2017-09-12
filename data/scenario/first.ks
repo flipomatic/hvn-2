@@ -16,6 +16,9 @@
 [layopt layer="message0" visible=false]
 [call storage="system/message_window.ks"]
 
+;プラグインの設定
+[call storage="system/plugin.ks"]
+
 ;タイトルの設定
 ;[title name="now loading"]
 

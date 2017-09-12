@@ -78,8 +78,14 @@
 ;defaultAntialiased=true
 ;defaultShadowColor=0x000000
 ;defaultEdgeColor=0x000000
-;defaultShadow=true
+;defaultShadow=false
 ;defaultEdge=false
 ;defaultLinkColor=0x0080ff
 ;defaultLinkOpacity=64
 ;vertical=false
+;skipEffectIgnore=true
+;autoSpeedWithText=60
+;defaultBgmSlotNum=1
+;defaultSoundSlotNum=3
+;configThumbnailQuality=middle
+;configSaveSlotNum=5

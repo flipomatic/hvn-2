@@ -140,10 +140,28 @@ Until then, John, I do hope your Father keeps you well fed! [p]
 
 
 [tb_hide_message_window  ]
-[tb_image_show  time="1000"  storage="default/scene75/00759_4under.gif"  width="500"  height="240"  x="236"  y="140"  _clickable_img=""  name="img_85"  ]
+[tb_image_show  time="1000"  storage="default/scene75/00759_4under.gif"  width="500"  height="240"  x="236"  y="140"  _clickable_img=""  name="img_86"  ]
 [glink  color="blue"  storage="scene76.ks"  size="20"  target="*00759"  text=">&nbsp;ACT&nbsp;3&nbsp;==>"  x="375"  y="550"  ]
 [s  ]
 *00759
 
+[tb_image_hide  time="1000"  ]
+*Act_3
+
 [cm  ]
+[bg  time="0"  method="crossfade"  storage="scene76/00760.gif"  ]
+[tb_show_message_window  ]
+A silly girl naps by her flowers. [p]
+It is quite likely that she tired herself out with a variety of silly antics, as silly girls are often known to do. [p]
+She may have a silly name too. [p]
+Or maybe not. It is hard to say for sure without asking her. [p]
+But since she's slumbering peacefully, it would be a shame to wake her up. [p]
+You might as well just give her a name right now.[p]
+
+
+[tb_hide_message_window  ]
+[glink  color="blue"  storage="scene76.ks"  size="20"  target="*00760"  text=">&nbsp;Enter&nbsp;name."  x="375"  y="550"  ]
 [s  ]
+*00760
+
+[jump  storage="scene77.ks"  target=""  ]

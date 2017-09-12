@@ -12,4 +12,5 @@
 [preload  storage="./data/bgimage/scene76/00759_2.gif"  ]
 [preload  storage="./data/bgimage/scene76/00759_3.gif"  ]
 [preload  storage="./data/fgimage/default/scene75/00759_4under.gif"  ]
+[preload  storage="./data/bgimage/scene76/00760.gif"  ]
 [return]

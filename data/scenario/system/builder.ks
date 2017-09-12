@@ -27,9 +27,9 @@
 [macro name="tb_ptext_show"]
 
 [if exp="mp.anim=='true'" ]
-	[mtext layer=2 text="%text" y=%y x=%x size=%size face=%face color=%color name=%name bold=%bold time=%time fadeout=%fadeout wait=%wait in_effect=%in_effect out_effect=%out_effect]
+	[mtext layer=2 text="%text" y=%y x=%x size=%size face=%face color=%color name=%name bold=%bold time=%time fadeout=%fadeout wait=%wait in_effect=%in_effect out_effect=%out_effect edge=%edge shadow=%shadow ]
 [else]	
-	[ptext layer=2 text="%text" y=%y x=%x size=%size face=%face color=%color name=%name bold=%bold time=%time   ]
+	[ptext layer=2 text="%text" y=%y x=%x size=%size face=%face color=%color name=%name bold=%bold time=%time edge=%edge shadow=%shadow  ]
 [endif]
 
 [endmacro]
@@ -42,6 +42,16 @@
 	[eval exp=%exp ]	
 [endmacro]
 
+[macro name="tb_keyconfig"]
+
+[if exp="mp.flag=='1'" ]
+    [start_keyconfig]
+[else]	
+    [stop_keyconfig]
+[endif]
+
+[endmacro]
+
 
 ;生ティラノ用のマーカー
 [macro name="tb_start_tyrano_code"]
@@ -49,6 +59,13 @@
 
 [macro name="_tb_end_tyrano_code"]
 [endmacro]
+
+[macro name="tb_start_text"]
+[endmacro]
+
+[macro name="_tb_end_text"]
+[endmacro]
+
 
 [macro name="lr"]
 [l][r]

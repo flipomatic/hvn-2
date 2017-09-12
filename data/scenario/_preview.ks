@@ -1,83 +1,150 @@
 [_tb_system_call storage=system/_preview.ks ]
 
-[bg  time="10"  method="crossfade"  storage="scene76/00755.PNG"  ]
-[tb_show_message_window] 
-[bg  time="0"  method="crossfade"  storage="scene76/00756.gif"  ]
+[mask time=10]
+[mask_off time=10]
+[bg  time="0"  method="crossfade"  storage="scene80/00791.gif"  ]
 [tb_show_message_window  ]
-You attempt the rare and highly dangerous 5X CLIFFHANGER COMBO, and fail. [p]
-We are doing it, man. [p]
-We are making this happen.[p]
+And today will likely be no exception. [p]
+Among the errands you have planned is to venture out to find your pet and best friend named BECQUEREL. [p]
+This animal must be fed and he will not be happy if he is not. [p]
+And if he is not happy then you will not be happy. [p]
+But first you really should dig out your COMPUTER and say hi to John! [p]
+NOW... [p]
+What will you do?[p]
 
 
 [tb_hide_message_window  ]
-[glink  color="blue"  storage="scene76.ks"  size="20"  target="*00756"  text=">&nbsp;[S]&nbsp;WV:&nbsp;Ascend."  x="350"  y="550"  ]
+[glink  color="blue"  storage="scene80.ks"  size="20"  target="*00791"  text=">Jade:&nbsp;Quickly&nbsp;retrieve&nbsp;firearms&nbsp;from&nbsp;wall."  x="250"  y="550"  ]
 [s  ]
-*00756
-
-*00757_1
+*00791
 
 [cm  ]
-[movie  volume="100"  skip="true"  storage="scene76/_S_WV-_Ascend.webm"  ]
-[bg  time="0"  method="crossfade"  storage="scene76/00757.PNG"  ]
-[glink  color="blue"  storage="scene76.ks"  size="20"  text="<=="  target="*00757_1"  x="200"  y="550"  ]
-[glink  color="blue"  storage="scene76.ks"  size="20"  text=">&nbsp;==>"  target="*00757_2"  x="500"  y="550"  ]
-[s  ]
-*00757_2
-
-[cm  ]
-[bg  time="0"  method="crossfade"  storage="scene76/00758.gif"  ]
+[bg  time="0"  method="crossfade"  storage="scene80/00792_1.gif"  ]
 [tb_show_message_window  ]
-END OF ACT 2[p]
-
-
-[tb_hide_message_window  ]
-[glink  color="blue"  storage="scene76.ks"  size="20"  target="*00758"  text=">&nbsp;Dear&nbsp;John,"  x="375"  y="550"  ]
-[s  ]
-*00758
-
-[cm  ]
-[bg  time="0"  method="crossfade"  storage="scene76/00759_1.gif"  ]
-[tb_show_message_window  ]
-You are no doubt reading this as a handsome and strapping young man! [p]
-Why, the mangrit needed to lift the book is itself a sign of your maturity, not even to speak of the wisdom needed to grasp the nuance of Sassacre's time-tested mischief. [p]
-I am so proud of you, grandson! [p]
+You equip your trusty HUNTING RIFLE.[p]
 
 
 [tb_hide_message_window  ]
 [cm  ]
-[bg  time="0"  method="crossfade"  storage="scene76/00759_2.gif"  ]
+[bg  time="0"  method="crossfade"  storage="scene80/00792_2.gif"  ]
 [tb_show_message_window  ]
-How I wish I could have delivered this heirloom to you in the flesh. [p]
-But I am afraid it wasn't in the cards! [p]
-For you see, John, like you, this book must yet take a journey! [p]
-Its journey will end on the Final Day of my life, and even then will continue some. [p]
-Though I suppose that will be up to your Father. [p]
-Perhaps he will discuss it with you one day, when he and you are ready. [p]
+There would be hell to pay if grandad caught you leaving the house without it.[p]
+
+
+[tb_hide_message_window  ]
+[glink  color="blue"  storage="scene80.ks"  size="20"  target="*00792"  text=">Jade:&nbsp;Wonder&nbsp;why&nbsp;the&nbsp;design&nbsp;on&nbsp;your&nbsp;shirt&nbsp;changed."  x="200"  y="550"  ]
+[s  ]
+*00792
+
+[cm  ]
+[bg  time="0"  method="crossfade"  storage="scene80/00793.gif"  ]
+[tb_show_message_window  ]
+There isn't much to wonder, really. [p]
+You left the WARDROBIFIER on its randomization setting.[p]
+
+
+[tb_hide_message_window  ]
+[glink  color="blue"  storage="scene80.ks"  size="20"  target="*00793"  text=">&nbsp;==>"  x="400"  y="550"  ]
+[s  ]
+*00793
+
+[cm  ]
+[bg  time="0"  method="crossfade"  storage="scene80/00794.gif"  ]
+[tb_show_message_window  ]
+You may contemplate which shirt design you favor the most and commit to that setting in the near future.[p]
+
+
+[tb_hide_message_window  ]
+[glink  color="blue"  storage="scene80.ks"  size="20"  target="*00794"  text=">Jade:&nbsp;Captchalogue&nbsp;nearest&nbsp;Squiddles&nbsp;doll&nbsp;and&nbsp;hug&nbsp;it."  x="200"  y="550"  ]
+[s  ]
+*00794
+
+[cm  ]
+[bg  time="0"  method="crossfade"  storage="scene80/00795.gif"  ]
+[tb_show_message_window  ]
+Just before you can grab one, the powerful ELECTROMAGNETS concealed in their underbellies become activated, and two of them get all tangled up with each other playfully.[p]
+
+
+[tb_hide_message_window  ]
+[glink  color="blue"  storage="scene80.ks"  size="20"  target="*00795"  text=">&nbsp;==>"  x="400"  y="550"  ]
+[s  ]
+*00795
+
+[cm  ]
+[bg  time="0"  method="crossfade"  storage="scene80/00796.gif"  ]
+[tb_show_message_window  ]
+You captchalogue the TANGLE BUDDIES.[p]
+
+
+[tb_hide_message_window  ]
+[glink  color="blue"  storage="scene80.ks"  size="20"  target="*00796"  text=">Jade:&nbsp;Lost&nbsp;interest&nbsp;in&nbsp;fauna&nbsp;and&nbsp;never&nbsp;speak&nbsp;of&nbsp;it&nbsp;again."  x="200"  y="550"  ]
+[s  ]
+*00796
+
+[cm  ]
+[bg  time="0"  method="crossfade"  storage="scene80/00797.gif"  ]
+[tb_show_message_window  ]
+Oh, but you could NEVER do that. [p]
+What marvelous creatures they are. [p]
+What a daring dream, to combine the finest qualities of humanity with the elegance and nobility of the animal kingdom. [p]
+How you wish you could know their world. [p]
+To hear one night those muted pawpads traipse up your stairs. [p]
+A low but friendly growl unsettles your slumber, and as the sopor seeps from your eyes they detect a sharp pair of ears cutting moonlight. A mysterious wolven tongue invites. Wouldn't these ears suit you? [p]
+Would not this proud long snout assist you in the hunt? [p]
+No need to answer. [p]
+Words slough from the busy mind like a useless dead membrane as a more visceral sapience takes over. [p]
+Something simpler is in charge now, a force untouched by the concerns and burdens of the upright, that farcical yoke the bipedal tow. [p]
+It now drives you through the midnight brush, your paws whisking through creepers, unearthing with each bold stomp bright odors demanding investigation. [p]
+But not for long, as you and your new friend must claim the night with piercing howls moonward. [p]
+You eat a weird bug and don't even care.[p]
+
+
+[tb_hide_message_window  ]
+[glink  color="blue"  storage="scene80.ks"  size="20"  target="*00797"  text=">Jade:&nbsp;Pick&nbsp;up&nbsp;your&nbsp;toys!"  x="300"  y="550"  ]
+[s  ]
+*00797
+
+[cm  ]
+[bg  time="0"  method="crossfade"  storage="scene80/00798_retcon.gif"  ]
+[tb_show_message_window  ]
+Speaking of which, you pick up and admire one of your MANTHRO CHAPS. [p]
+They are wonderful friends and are always cheerful and pleasant fellows. [p]
+Why dear Mr. Coxcomb, how ever will you be received at the BARNYARD GALA without the trappings of a proper gentleman? [p]
+Each MANTHRO CHAP comes with a number of accessories, including articles of FORMAL ATTIRE, a VACCINATION KIT, and a DISHWASHER-SAFE SLOP TROUGH.[p]
+
+
+[tb_hide_message_window  ]
+[glink  color="blue"  storage="scene80.ks"  size="20"  target="*00798"  text=">Jade:&nbsp;Organize&nbsp;all&nbsp;your&nbsp;dolls."  x="300"  y="550"  ]
+[s  ]
+*00798
+
+[cm  ]
+[bg  time="0"  method="crossfade"  storage="scene80/00799.gif"  ]
+[tb_show_message_window  ]
+You gather all your dolls into a rather cozy looking pile.[p]
+
+
+[tb_hide_message_window  ]
+[glink  color="blue"  storage="scene80.ks"  size="20"  target="*00799"  text=">Jade:&nbsp;Change&nbsp;wardrobifier&nbsp;setting."  x="275"  y="550"  ]
+[s  ]
+*00799
+
+[cm  ]
+[bg  time="0"  method="crossfade"  storage="scene80/00800_1.gif"  ]
+[tb_show_message_window  ]
+You deactivate the WARDROBIFIER'S randomization mode and set it to cycle through these three shirt designs. [p]
 
 
 [tb_hide_message_window  ]
 [cm  ]
-[bg  time="0"  method="crossfade"  storage="scene76/00759_3.gif"  ]
+[bg  time="0"  method="crossfade"  storage="scene80/00800_2.gif"  ]
 [tb_show_message_window  ]
-But it is your journey I am writing about to wish you luck! [p]
-There will come a day when you will be thrust into another world. [p]
-And once you arrive, that is only the beginning! [p]
-You will soon delve even deeper into a realm of Warring Royalty in a Timeless Expanse. [p]
-A realm of Agents and Exiles and Consorts and Kernelsprites. [p]
-Of toiling Underlings and slumbering Denizens. [p]
-A realm where four will gather, the Heir of Breath and Seer of Light, the Knight of Time and Witch of Space, and together they will Ascend. [p]
-John, if only you knew how important you were! [p]
-I regret my passing came so early in your life. [p]
-And yet I feel in my heart we have already met. [p]
-But what I know for sure is that we will meet again! [p]
-Until then, John, I do hope your Father keeps you well fed! [p]
+The decision was tough, but you think you came to the best possible conclusion.[p]
 
 
 [tb_hide_message_window  ]
-[tb_image_show  time="1000"  storage="default/scene75/00759_4under.gif"  width="500"  height="240"  x="236"  y="140"  _clickable_img=""  name="img_85"  ]
-[glink  color="blue"  storage="scene76.ks"  size="20"  target="*00759"  text=">&nbsp;ACT&nbsp;3&nbsp;==>"  x="375"  y="550"  ]
+[glink  color="blue"  storage="scene80.ks"  size="20"  target="*00800"  text=">Jade:&nbsp;Look&nbsp;out&nbsp;the&nbsp;window."  x="300"  y="550"  ]
 [s  ]
-*00759
+*00800
 
-[cm  ]
-[s  ]
+[jump  storage="scene81.ks"  target=""  ]
